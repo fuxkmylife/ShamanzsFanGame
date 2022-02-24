@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ShamanzsFanGame/static/css/main.b18b17fe.chunk.css",
+    "main.js": "/ShamanzsFanGame/static/js/main.ea0f2f02.chunk.js",
+    "main.js.map": "/ShamanzsFanGame/static/js/main.ea0f2f02.chunk.js.map",
+    "runtime-main.js": "/ShamanzsFanGame/static/js/runtime-main.01d6bd2d.js",
+    "runtime-main.js.map": "/ShamanzsFanGame/static/js/runtime-main.01d6bd2d.js.map",
+    "static/css/2.f1bd3b54.chunk.css": "/ShamanzsFanGame/static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.2cf41ecc.chunk.js": "/ShamanzsFanGame/static/js/2.2cf41ecc.chunk.js",
+    "static/js/2.2cf41ecc.chunk.js.map": "/ShamanzsFanGame/static/js/2.2cf41ecc.chunk.js.map",
+    "index.html": "/ShamanzsFanGame/index.html",
+    "precache-manifest.fde1eb6563f44760a5bad433067655ea.js": "/ShamanzsFanGame/precache-manifest.fde1eb6563f44760a5bad433067655ea.js",
+    "service-worker.js": "/ShamanzsFanGame/service-worker.js",
+    "static/css/2.f1bd3b54.chunk.css.map": "/ShamanzsFanGame/static/css/2.f1bd3b54.chunk.css.map",
+    "static/css/main.b18b17fe.chunk.css.map": "/ShamanzsFanGame/static/css/main.b18b17fe.chunk.css.map",
+    "static/js/2.2cf41ecc.chunk.js.LICENSE.txt": "/ShamanzsFanGame/static/js/2.2cf41ecc.chunk.js.LICENSE.txt",
+    "static/media/Shamanzs_game_2-04-min.png": "/ShamanzsFanGame/static/media/Shamanzs_game_2-04-min.2d25496d.png",
+    "static/media/Shamanzs_game_2-06-min.png": "/ShamanzsFanGame/static/media/Shamanzs_game_2-06-min.212c68d3.png",
+    "static/media/Shamanzs_game_2-07-min.png": "/ShamanzsFanGame/static/media/Shamanzs_game_2-07-min.8597153b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01d6bd2d.js",
+    "static/css/2.f1bd3b54.chunk.css",
+    "static/js/2.2cf41ecc.chunk.js",
+    "static/css/main.b18b17fe.chunk.css",
+    "static/js/main.ea0f2f02.chunk.js"
+  ]
+}
